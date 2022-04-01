@@ -7,9 +7,9 @@
    <br>
   <hr>
   <br>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkGraebener&layout=compact&theme=github_dark&langs_count=9" alt="JMComstock"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therman116220&layout=compact&theme=github_dark&langs_count=9" alt="JMComstock"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=MarkGraebener&count_private=true&theme=github_dark" alt="JMComstock"/>
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkGraebener&theme=highcontrast" alt="JMComstock"/>
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Therman116220&theme=highcontrast" alt="JMComstock"/>
   <br>
   <hr>
 
