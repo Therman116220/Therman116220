@@ -1,5 +1,5 @@
 <h1 align="center" font-size="100px">Hi 👋, I'm Therman Haynes </h1>
-<h3 align="center">I am an analytically minded individual who likes to solve problems with code.</h3>
+<h3 align="center">I am an U.S. Marine Corps veteran transitioning from a career in Network Admin & Cisci Switch Operator, wish me luck.🇺🇸</h3>
 
 <div align="center">
   Visit me on:<br>
