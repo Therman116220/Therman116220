@@ -9,7 +9,7 @@
   <br>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therman116220&layout=compact&theme=github_dark&langs_count=9" alt="Therman116220"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=Therman116220&count_private=true&theme=github_dark" alt="Therman11620"/>
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Therman116220&theme=highcontrast" alt="JMComstock"/>
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Therman116220&theme=highcontrast" alt="Therman116220"/>
   <br>
   <hr>
 
