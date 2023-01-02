@@ -1,5 +1,5 @@
 <h1 align="center" font-size="100px">Hi 👋, I'm Therman Haynes </h1>
-<h3 align="center">I am an U.S. Marine Corps veteran transitioning from a career in Network Admin & Cisco Switch Operator, to Software Dev. Wish me luck.🇺🇸</h3>
+<h3 align="center">I am an U.S. Marine Corps veteran that transitioned from a career in Network Admin & Cisco Switch Operator, to Software Dev. Wish me luck on my lifelong journey.🇺🇸</h3>
 
 <div align="center">
   Visit me on:<br>
